@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sign Up</string>
+    <string name="hello">Hello!</string>
+    <string name="introduce">Lets introduce</string>
+    <string name="hint_full_name">Your full name</string>
+    <string name="hint_username">Username</string>
+</resources>
